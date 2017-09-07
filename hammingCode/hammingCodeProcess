@@ -1,0 +1,6 @@
+Hamming Code Process:
+1. Get user input
+2. Convert them into binary
+3. Calculate number of parity bits required
+4. Insert those parity bits into original code
+5. Calculate what should each parity bit be
